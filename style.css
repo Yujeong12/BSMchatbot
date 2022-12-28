@@ -1,0 +1,38 @@
+
+.right-bubble {
+    text-align: right;
+    padding:8px;
+    width:45%;
+    margin-left : 55%;
+    background-color:skyblue;
+    color:black;
+    border-radius:10px;
+}
+.right-bubble > p {
+    margin:0px;
+    margin-right:5%;
+}
+.left-bubble > p {
+    margin:0px;
+    margin-left:2%;
+    font-size:15.3px;
+}
+.msg-info{
+    margin-left:1%;
+}
+
+
+
+.left-bubble {
+    text-align: left;
+    padding:8px;
+    width:45%;
+    background-color:white;
+    color:black;
+    border:solid 1.6px darkgray;
+    border-radius:10px;
+}
+.input-bar{
+    border:solid 5px black;
+}
+
